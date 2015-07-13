@@ -49,3 +49,5 @@ There is an [`electron` category on the Atom forums](http://discuss.atom.io/cate
 as well as an `#atom-shell` channel on Freenode.
 
 Check out [awesome-electron](https://github.com/sindresorhus/awesome-electron) for a community maintained list of useful example apps, tools and resources.
+
+THIS IS MY CHANGE
